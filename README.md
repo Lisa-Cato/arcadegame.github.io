@@ -43,4 +43,4 @@ Externt material
 Länkar i punktform med beskrivning till andra dokument (Google-drive, Trello, mm)
 - Trello: https://trello.com/b/fM3Ga6tq/tillampad - Planering
 - Dokument: https://docs.google.com/document/d/17cRBFX9_B3-d3m9HAzIyR7b5t-AhF5J3w9hHzCbXibw/edit?tab=t.0 - Första planeringen och annan information
--  
+-  Dokument: https://docs.google.com/document/d/10rnT_yb4GYDgjbrDVRlDqcuBoNok8ey4doVd2WC6K0M/edit?tab=t.0#heading=h.udyri2d3zgch  -  gya loggbok för raspberry pi kiosk läge
